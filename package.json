@@ -1,12 +1,20 @@
 {
   "name": "bytebank",
   "version": "1.0.0",
-  "description": "Projeto do bytebank para seus clientes",
+  "description": "Projeto bytebank",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanmpires/bytebank.js.git"
+  },
+  "author": "Luan Pires",
   "license": "ISC",
-  "type": "module"
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/luanmpires/bytebank.js/issues"
+  },
+  "homepage": "https://github.com/luanmpires/bytebank.js#readme"
 }
